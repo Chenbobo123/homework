@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;    /* 至少和瀏覽器一樣高 */
+  width: 100%;
+  font-size: 1em;
+  font-family: 'Ubuntu', 'Noto Sans TC', sans-serif;
+  color: #616161;
+  text-align: justify;
+}
